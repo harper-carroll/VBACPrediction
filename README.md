@@ -1,5 +1,5 @@
 # VBACPrediction
-Code for the VBAC Prediction Logistic Regression &amp; GBDT models that do not use race &amp; achieve cutting-edge AUC.
+Code for the VBAC Prediction Logistic Regression &amp; GBDT models that achieve cutting-edge AUC without using race.
 
 # Getting started
 You can use the already-preprocessed dataset, ```2019_vbac_data.csv```, or you can start from scratch.
